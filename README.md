@@ -1,3 +1,10 @@
+# Vocal Hub Connect is a fictional job search UI i created in react. -Don Miller
+
+# Credits: All icons i used in this application came from www.icons8.com
+
+# the logo i created using a logo maker.
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
