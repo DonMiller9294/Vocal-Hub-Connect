@@ -1,13 +1,99 @@
+@media screen and (max-width: 900px) and (min-width: 300px) {
+}
+
 body {
-  margin: 0;
-  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
-    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
-    sans-serif;
-  -webkit-font-smoothing: antialiased;
-  -moz-osx-font-smoothing: grayscale;
+	margin: 0;
+	font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "Roboto", "Oxygen",
+		"Ubuntu", "Cantarell", "Fira Sans", "Droid Sans", "Helvetica Neue",
+		sans-serif;
+	-webkit-font-smoothing: antialiased;
+	-moz-osx-font-smoothing: grayscale;
 }
 
 code {
-  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
-    monospace;
+	font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New",
+		monospace;
+}
+
+/* commments that affect the position of icons in the navabar*/
+.home {
+	position: relative;
+	left: 70px;
+	top: -1px;
+}
+
+.notification {
+	position: relative;
+	left: 260px;
+	top: -1px;
+}
+
+.hamburger {
+	position: relative;
+	left: 220px;
+	top: -1px;
+}
+
+.brand {
+	position: relative;
+	left: 80px;
+	top: -1px;
+}
+.message {
+	position: relative;
+	left: 170px;
+	top: 0px;
+}
+
+/* css that affects the heading tag*/
+.h1 {
+	font-family: "Courier New", Courier, monospace;
+	height: 40px;
+	position: relative;
+	bottom: 15px;
+	right: -10px;
+	text-shadow: 2px 2px 4px black;
+}
+
+.theformplacement {
+	font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+	position: relative;
+	bottom: 20px;
+	right: -10px;
+}
+
+.btn1 {
+	border-radius: 25px;
+	font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
+}
+
+.company {
+	text-decoration: underline;
+	text-align: left;
+}
+.joblisting1 {
+	width: 300px;
+	position: relative;
+	left: 99px;
+}
+.highlight {
+	text-align: left;
+}
+
+.review {
+	text-align: left;
+}
+
+.bonus {
+	background-color: lightblue;
+}
+
+.retirment {
+	position: relative;
+	left: 10px;
+	background-color: lightblue;
+}
+
+.salary {
+	background-color: lightblue;
 }
